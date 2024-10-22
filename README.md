@@ -13,15 +13,6 @@ Olá, sou Thaísa Carvalho!
 
 Para a criação deste desafio, utilizei a linguagem de programação PHP, o framework Laravel e o banco de dados MySQL. Também utilizei HTML para marcação, CSS para estilização e o Bootstrap para o design responsivo.
 
-## Experiência
-
-Informo que não possuo experiência prática com PHP e Laravel, mas estudei sobre essas tecnologias no curso de Programação Full Stack que conclui recentemente. Durante o curso, utilizamos PHP e Laravel no back-end para desenvolver um projeto de gerenciamento de cardápio para restaurantes.
-
-Agradeço pela oportunidade.
-
-Atenciosamente,  
-Thaísa Carvalho
-
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
